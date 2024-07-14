@@ -1,0 +1,53 @@
+2024-07-13 23:37:22.857 [TestNG-PoolService-3] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-3, To count the total number of video feeds and feeds on page with day>=3
+2024-07-13 23:37:22.857 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-1, To validate the count of slides, title and duration of each slide
+2024-07-13 23:37:22.857 [TestNG-PoolService-2] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-2, To Find all the hyperlinks, store in a file and report the duplicate
+2024-07-13 23:51:15.466 [TestNG-PoolService-3] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-3, To count the total number of video feeds and feeds on page with day>=3
+2024-07-13 23:51:15.466 [TestNG-PoolService-2] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-2, To Find all the hyperlinks, store in a file and report the duplicate
+2024-07-13 23:51:15.466 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-1, To validate the count of slides, title and duration of each slide
+2024-07-13 23:51:59.731 [TestNG-PoolService-3] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-3,To count the total number of video feeds and feeds on page with day>=3
+2024-07-13 23:52:01.429 [TestNG-PoolService-2] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-2,To Find all the hyperlinks, store in a file and report the duplicate
+2024-07-13 23:53:10.103 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-1,To validate the count of slides, title and duration of each slide
+2024-07-14 00:04:26.825 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-1, To validate the count of slides, title and duration of each slide
+2024-07-14 00:04:26.825 [TestNG-PoolService-2] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-2, To Find all the hyperlinks, store in a file and report the duplicate
+2024-07-14 00:04:26.825 [TestNG-PoolService-3] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-3, To count the total number of video feeds and feeds on page with day>=3
+2024-07-14 00:05:02.595 [TestNG-PoolService-2] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-2,To Find all the hyperlinks, store in a file and report the duplicate
+2024-07-14 00:05:41.734 [TestNG-PoolService-3] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-3,To count the total number of video feeds and feeds on page with day>=3
+2024-07-14 00:06:31.387 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-1,To validate the count of slides, title and duration of each slide
+2024-07-14 00:10:34.795 [TestNG-PoolService-3] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-3, To count the total number of video feeds and feeds on page with day>=3
+2024-07-14 00:10:34.795 [TestNG-PoolService-2] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-2, To Find all the hyperlinks, store in a file and report the duplicate
+2024-07-14 00:10:34.795 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-1, To validate the count of slides, title and duration of each slide
+2024-07-14 00:11:10.192 [TestNG-PoolService-3] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-3,To count the total number of video feeds and feeds on page with day>=3
+2024-07-14 00:11:11.005 [TestNG-PoolService-2] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-2,To Find all the hyperlinks, store in a file and report the duplicate
+2024-07-14 00:12:27.135 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-1,To validate the count of slides, title and duration of each slide
+2024-07-14 00:14:30.760 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-1, To validate the count of slides, title and duration of each slide
+2024-07-14 00:14:30.760 [TestNG-PoolService-2] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-2, To Find all the hyperlinks, store in a file and report the duplicate
+2024-07-14 00:14:30.760 [TestNG-PoolService-3] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-3, To count the total number of video feeds and feeds on page with day>=3
+2024-07-14 00:15:00.372 [TestNG-PoolService-2] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-2,To Find all the hyperlinks, store in a file and report the duplicate
+2024-07-14 00:15:53.052 [TestNG-PoolService-3] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-3,To count the total number of video feeds and feeds on page with day>=3
+2024-07-14 00:16:27.688 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-1,To validate the count of slides, title and duration of each slide
+2024-07-14 10:54:06.631 [TestNG-PoolService-2] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-2, To Find all the hyperlinks, store in a file and report the duplicate
+2024-07-14 10:54:06.631 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-1, To validate the count of slides, title and duration of each slide
+2024-07-14 10:54:06.631 [TestNG-PoolService-3] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-3, To count the total number of video feeds and feeds on page with day>=3
+2024-07-14 10:54:31.747 [TestNG-PoolService-2] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-2,To Find all the hyperlinks, store in a file and report the duplicate
+2024-07-14 10:54:43.810 [TestNG-PoolService-3] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-3,To count the total number of video feeds and feeds on page with day>=3
+2024-07-14 10:55:10.764 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-1,To validate the count of slides, title and duration of each slide
+2024-07-14 10:59:30.443 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-1, To validate the count of slides, title and duration of each slide
+2024-07-14 11:00:02.793 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.stepDefinitions.DerivedProductSixersHomeStepDefinitions - The number of slides are 5
+2024-07-14 11:01:20.296 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-1,To validate the count of slides, title and duration of each slide
+2024-07-14 11:01:57.876 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-1, To validate the count of slides, title and duration of each slide
+2024-07-14 11:02:15.038 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.stepDefinitions.DerivedProductSixersHomeStepDefinitions - The number of slides are 5
+2024-07-14 11:08:24.349 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-1, To validate the count of slides, title and duration of each slide
+2024-07-14 11:10:10.568 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.stepDefinitions.DerivedProductSixersHomeStepDefinitions - The number of slides are 5
+2024-07-14 11:14:39.405 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-1, To validate the count of slides, title and duration of each slide
+2024-07-14 11:15:27.489 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-1,To validate the count of slides, title and duration of each slide
+2024-07-14 11:15:47.564 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-1, To validate the count of slides, title and duration of each slide
+2024-07-14 11:16:39.454 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.stepDefinitions.DerivedProductSixersHomeStepDefinitions - The number of slides are 5
+2024-07-14 11:24:50.900 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-1, To validate the count of slides, title and duration of each slide
+2024-07-14 11:25:08.593 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.stepDefinitions.DerivedProductSixersHomeStepDefinitions - The number of slides are 5
+2024-07-14 11:25:50.982 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-1,To validate the count of slides, title and duration of each slide
+2024-07-14 12:03:51.833 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-1, To validate the count of slides, title and duration of each slide
+2024-07-14 12:03:51.833 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - BEFORE THREAD IDTestNG-PoolService-1, To validate the count of slides, title and duration of each slide
+2024-07-14 12:04:59.580 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.stepDefinitions.DerivedProductSixersHomeStepDefinitions - The number of slides are 5
+2024-07-14 12:04:59.600 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.stepDefinitions.DerivedProductSixersHomeStepDefinitions - The number of slides are 5
+2024-07-14 12:05:49.479 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-1,To validate the count of slides, title and duration of each slide
+2024-07-14 12:05:49.480 [TestNG-PoolService-1] INFO  com.org.awesomecucumber.hooks.MyHooks - AFTER THREAD IDTestNG-PoolService-1,To validate the count of slides, title and duration of each slide
